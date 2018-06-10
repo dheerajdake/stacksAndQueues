@@ -54,3 +54,4 @@ dkms.conf
 # Ignore directories
 stacksUsingQueues/Debug/
 queuesUsingStacks/Debug/
+/.metadata/
